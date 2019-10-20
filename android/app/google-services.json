@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992607691502",
+    "firebase_url": "https://tharindudilshan-d26d0.firebaseio.com",
+    "project_id": "tharindudilshan-d26d0",
+    "storage_bucket": "tharindudilshan-d26d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992607691502:android:53998b6373dc34e7",
+        "android_client_info": {
+          "package_name": "com.example.tharindudilsahn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992607691502-e2oo0k5ik29m57qm3tm1373hlphfu7sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gq58BEIdDUpxr9J6RX9dwk001QpGmII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992607691502-e2oo0k5ik29m57qm3tm1373hlphfu7sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
